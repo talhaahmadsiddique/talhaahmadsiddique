@@ -7,7 +7,7 @@ Front End WEB Developer!
 I completed my BSCS from Government College University (GCU), Lahore. I'm an enthusiastic and goal-oriented Developer, passionate about utilizing and furthering my web application development skills. My objective is to enhance my programming abilities, develop a profound comprehension of core concepts, and contribute towards enhancing the organization, community, and environment.
 
 * 🌍  I'm based in Lahore, Pakistan.
-* ✉️  You can contact me at [talhaahmadsiddique46@gmail.com](mailto:talhaahmadsiddique46@gmail.com)
+* ✉️  You can contact me at [talhasiddique.se@gmail.com](mailto:talhasiddique.se@gmail.com)
 * 🧠  I'm learning Advanced React Concept.
 * 🤝  I'm open to collaborating on a unique project that will enable me to enhance my abilities.
 * ⚡  I enjoy playing table tennis, cricket, and football.
