@@ -1,50 +1,103 @@
-Hi 👋 My name is Talha Ahmad Siddiqui
-=====================================
+<!-- Banner Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=3A82F7&center=true&vCenter=true&width=800&lines=Hi+I'm+Talha+Ahmad+Siddiqui+👋;MERN+Stack+Web+Engineer;Building+Dashboards+%7C+ERPs+%7C+Scalable+Systems;Always+Learning+%26+Exploring+AI+🚀" />
+</p>
 
-Front End WEB Developer!
-------------------------
+---
 
-I completed my BSCS from Government College University (GCU), Lahore. I'm an enthusiastic and goal-oriented Developer, passionate about utilizing and furthering my web application development skills. My objective is to enhance my programming abilities, develop a profound comprehension of core concepts, and contribute towards enhancing the organization, community, and environment.
+# 👨‍💻 **About Me**
+I'm a MERN Stack Web Engineer experienced in building dashboards, ERP modules, real-time systems, and scalable full-stack platforms.
 
-* 🌍  I'm based in Lahore, Pakistan.
-* ✉️  You can contact me at [talhasiddique.se@gmail.com](mailto:talhasiddique.se@gmail.com)
-* 🧠  I'm learning Advanced React Concept.
-* 🤝  I'm open to collaborating on a unique project that will enable me to enhance my abilities.
-* ⚡  I enjoy playing table tennis, cricket, and football.
+- 🌍 Based in **Lahore, Pakistan**, building globally scalable solutions.  
+- 🖥️ Portfolio: **https://talhasiddique.vercel.app/**  
+- ✉️ Contact: **talhasiddique.se@gmail.com**  
+- 🧠 Exploring **AI-powered workflows & automation**.  
+- 🤝 Open to collaborating on **impactful, meaningful projects**.  
+- 🔥 Love to build real-time apps, clean UI, system design, scalable patterns.  
+- ⚽ I enjoy playing **football, cricket, table tennis**.  
 
-### Skills
+---
 
+# 💻 Tech Stack
+
+## ⚡ Frontend
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/invision.svg" height="36" />
+</p>
+
+## 🔗 Backend
+
+<p align="left">
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="36" />
+<img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="36" />
+</p>
+
+## 🛠 DevOps & Tools
+
+<p align="left">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="36"/>
+<img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" height="36"/>
+</p>
+
+---
+
+# 🧩 What I Build
+
+✔ Clean, modern & responsive web applications  
+✔ Scalable backend architectures  
+✔ Real-time systems with WebSockets  
+✔ Secure user authentication & permissions   
+✔ API development & integrations  
+✔ Analytics dashboards & data visualization
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=talhaahmadsiddique&theme=blueberry&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmadsiddique&langs_count=6&theme=blueberry&hide_border=false&layout=compact" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=talhaahmadsiddique&theme=radical&title=Commits,Repositories,Experience&column=3&row=1&no-bg=true&no-frame=false&margin-w=20" 
+    alt="Trophies"
+  />
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.github.com/talhaahmadsiddique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/talhaahmadsiddique" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+# 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaahmadsiddique&theme=react-dark&hide_border=true" />
+</p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/talhaahmadsiddique"><img src="https://github-readme-stats.vercel.app/api?username=talhaahmadsiddique&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="talhaahmadsiddique's GitHub stats" /></a>
-
-<a href="http://www.github.com/talhaahmadsiddique"><img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaahmadsiddique&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/talhaahmadsiddique"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=talhaahmadsiddique&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/talhaahmadsiddique" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmadsiddique&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
