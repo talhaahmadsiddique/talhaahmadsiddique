@@ -23,44 +23,44 @@ I'm a MERN Stack Web Engineer experienced in building dashboards, ERP modules, r
 ## ⚡ Frontend
 
 <p align="left">
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/invision.svg" height="36" style="margin: 0 5px" />
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/mui.png" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/invision.svg" height="36" style="margin: 0 10px" />
 </p>
 
 ## 🔗 Backend
 
 <p align="left">
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="36" style="margin: 0 5px"  />
-<img src="https://cdn.simpleicons.org/express/73a832" height="36" style="margin: 0 5px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="36" style="margin: 0 10px"  />
+<img src="https://cdn.simpleicons.org/express/73a832" height="36" style="margin: 0 10px"  />
 
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="36" style="margin: 0 5px"  />
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="36" style="margin: 0 5px"  />
-<img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="36" style="margin: 0 5px"  />
-<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="36" style="margin: 0 5px"  />
-<img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="36" style="margin: 0 5px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="36" style="margin: 0 10px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="36" style="margin: 0 10px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" height="36" style="margin: 0 10px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" height="36" style="margin: 0 10px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/prisma.png" height="36" style="margin: 0 10px"  />
 </p>
 
 ## 🛠 DevOps & Tools
 
 <p align="left">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="36" style="margin: 0 5px" />
-<img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="36" style="margin: 0 5px" />
-<img src="https://cdn.simpleicons.org/gnubash" height="36" style="margin: 0 5px"  />
-<img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" height="36" style="margin: 0 5px" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="36" style="margin: 0 10px" />
+<img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="36" style="margin: 0 10px" />
+<img src="https://cdn.simpleicons.org/gnubash" height="36" style="margin: 0 10px"  />
+<img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" height="36" style="margin: 0 10px" />
 </p>
 
 ---
@@ -99,6 +99,6 @@ I'm a MERN Stack Web Engineer experienced in building dashboards, ERP modules, r
 
 # 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaahmadsiddique&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaahmadsiddique&theme=react-dark&hide_border=true&hide_title=true" />
 </p>
 
