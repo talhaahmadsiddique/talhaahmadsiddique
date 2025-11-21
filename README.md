@@ -88,7 +88,7 @@ I'm a MERN Stack Web Engineer experienced in building dashboards, ERP modules, r
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=talhaahmadsiddique&theme=radical&title=Commits,Repositories,Experience&column=3&row=1&no-bg=true&no-frame=false&margin-w=20" 
+    src="https://github-trophies.vercel.app/?username=talhaahmadsiddique&theme=radical&title=Commits,Repositories,LongTimeUser,PullRequest&column=4&row=1&no-bg=true&no-frame=false&margin-w=20" 
     alt="Trophies"
   />
 </p>
