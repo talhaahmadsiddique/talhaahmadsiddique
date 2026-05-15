@@ -79,9 +79,7 @@ I'm a MERN Stack Web Engineer experienced in building dashboards, ERP modules, r
 # 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=talhaahmadsiddique&theme=blueberry&hide_border=false" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=talhaahmadsiddique&theme=dark&hide_border=true)](https://git.io/streak-stats)
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaahmadsiddique&layout=compact&theme=blueberry&hide_border=true"/> -->
+    <img src="https://streak-stats.demolab.com?user=talhaahmadsiddique&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
